@@ -67,3 +67,6 @@ I know you motherfuckers been waiting for a minute
 You know how I'm saying
 Here for the boss
 This ain't your regular album
+
+
+2nd commit in feature after gitignore
